@@ -1,3 +1,4 @@
+#David Leonardo Rubio Contreras-02240132023
 base_datos_clientes = [
     ("C001", "Ana Pérez", "ana.perez@email.com", [("F1001", "2025-09-20", 1500.00, 3), ("F1002", "2025-09-22", 2300.00, 5)]),
     ("C002", "Luis Gómez", "luis.gomez@email.com", [("F1003", "2025-09-21", 1200.00, 2)]),
